@@ -1,0 +1,328 @@
+Triver
+v7
+r0
+t296860101.250212
+cCheck dependencies
+cProcessInfoPlistFile /Users/mark/code/river/build/Debug-iphonesimulator/river.app/Info.plist river-Info.plist
+cCompileXIB /Users/mark/code/river/MainWindow.xib
+cCompileXIB /Users/mark/code/river/riverViewController.xib
+cCpResource build/Debug-iphonesimulator/river.app/Chipmunk Chipmunk
+cCpResource build/Debug-iphonesimulator/river.app/cocos2d cocos2d
+cCpResource build/Debug-iphonesimulator/river.app/FontLabel FontLabel
+cProcessPCH /var/folders/xd/xdjQj+JyFEymHP-nZSPEt++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/river_Prefix-hgyjlkehirzmcwgzbecxlkhnvihg/river_Prefix.pch.gch river_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/river.build/Debug-iphonesimulator/river.build/Objects-normal/i386/main.o /Users/mark/code/river/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/river.build/Debug-iphonesimulator/river.build/Objects-normal/i386/riverAppDelegate.o /Users/mark/code/river/Classes/riverAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/river.build/Debug-iphonesimulator/river.build/Objects-normal/i386/riverViewController.o /Users/mark/code/river/Classes/riverViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/mark/code/river/build/Debug-iphonesimulator/river.app/river normal i386
+cGenerateDSYMFile /Users/mark/code/river/build/Debug-iphonesimulator/river.app.dSYM /Users/mark/code/river/build/Debug-iphonesimulator/river.app/river
+cTouch /Users/mark/code/river/build/Debug-iphonesimulator/river.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004BBE480B0000000000000110
+t1270761483
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BA03AB3000000000026F020
+t1268791987
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B9F1DE40000000000289C20
+t1268719076
+s2661408
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B9F1DD60000000000001355
+t1268719062
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004B9F266D000000000001F9F0
+t1268721261
+s129520
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004B9F27B9000000000011BF20
+t1268721593
+s1163040
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BA6CAEC000000000000098F
+t1269222124
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BA6CB31000000000214E400
+t1269222193
+s34923520
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/lib/libz.dylib
+c00000000476CCCD10000000000006EE8
+t1198312657
+s28392
+
+N/Users/mark/code/river/Chipmunk
+c000000004BCB5FD300000000000000AA
+t1271619539
+s170
+
+N/Users/mark/code/river/Classes/riverAppDelegate.h
+c000000004C017F5B00000000000001D1
+t1275166555
+s465
+i<UIKit/UIKit.h>
+
+N/Users/mark/code/river/Classes/riverAppDelegate.m
+c000000004C017F5B0000000000000296
+t1275166555
+s662
+i"riverAppDelegate.h"
+i"riverViewController.h"
+
+N/Users/mark/code/river/Classes/riverViewController.h
+c000000004C017F5B00000000000000E6
+t1275166555
+s230
+i<UIKit/UIKit.h>
+
+N/Users/mark/code/river/Classes/riverViewController.m
+c000000004C017F5B0000000000000546
+t1275166555
+s1350
+i"riverViewController.h"
+
+N/Users/mark/code/river/FontLabel
+c000000004BCB5FD300000000000001DC
+t1271619539
+s476
+
+N/Users/mark/code/river/MainWindow.xib
+c000000004C017F5B0000000000004CF5
+t1275166555
+s19701
+
+N/Users/mark/code/river/build/Debug-iphonesimulator/river.app
+t1275167301
+s340
+
+N/Users/mark/code/river/build/Debug-iphonesimulator/river.app.dSYM
+t1275167301
+s102
+
+N/Users/mark/code/river/build/Debug-iphonesimulator/river.app/Chipmunk
+t1275166930
+s136
+
+N/Users/mark/code/river/build/Debug-iphonesimulator/river.app/FontLabel
+t1275167301
+s442
+
+N/Users/mark/code/river/build/Debug-iphonesimulator/river.app/Info.plist
+t1275166930
+s790
+
+N/Users/mark/code/river/build/Debug-iphonesimulator/river.app/MainWindow.nib
+t1275166930
+s1113
+
+N/Users/mark/code/river/build/Debug-iphonesimulator/river.app/PkgInfo
+t1275166930
+s8
+
+N/Users/mark/code/river/build/Debug-iphonesimulator/river.app/cocos2d
+t1275166930
+s4216
+
+N/Users/mark/code/river/build/Debug-iphonesimulator/river.app/river
+t1275167301
+s19444
+
+N/Users/mark/code/river/build/Debug-iphonesimulator/river.app/riverViewController.nib
+t1275166930
+s769
+
+N/Users/mark/code/river/build/river.build/Debug-iphonesimulator/river.build/Objects-normal/i386/main.o
+t1275166932
+s5912
+
+N/Users/mark/code/river/build/river.build/Debug-iphonesimulator/river.build/Objects-normal/i386/river.LinkFileList
+c000000004C0180D2000000000000014D
+t1275166930
+s333
+
+N/Users/mark/code/river/build/river.build/Debug-iphonesimulator/river.build/Objects-normal/i386/riverAppDelegate.o
+t1275166932
+s42348
+
+N/Users/mark/code/river/build/river.build/Debug-iphonesimulator/river.build/Objects-normal/i386/riverViewController.o
+t1275166932
+s34400
+
+N/Users/mark/code/river/cocos2d
+c000000004BCB5FD3000000000000109A
+t1271619539
+s4250
+
+N/Users/mark/code/river/main.m
+c000000004C017F5B0000000000000165
+t1275166555
+s357
+i<UIKit/UIKit.h>
+
+N/Users/mark/code/river/riverViewController.xib
+c000000004C017F5B0000000000003ED9
+t1275166555
+s16089
+
+N/Users/mark/code/river/river_Prefix.pch
+c000000004C017F5B00000000000000B3
+t1275166555
+s179
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/xd/xdjQj+JyFEymHP-nZSPEt++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/river_Prefix-hgyjlkehirzmcwgzbecxlkhnvihg/river_Prefix.pch.gch
+t1275166931
+s13805456
+
+Nriver-Info.plist
+c000000004C017F5B00000000000004D6
+t1275166555
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies296860101#296860101#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/river.build/Debug-iphonesimulator/river.build/Objects-normal/i386/main.o /Users/mark/code/river/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s296859732.148810
+e296859732.282993
+r1
+xCompileC
+xbuild/river.build/Debug-iphonesimulator/river.build/Objects-normal/i386/main.o
+x/Users/mark/code/river/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Compile /Users/mark/code/river/main.m296859732#296859732#0(0"0(0#0#29"/Users/mark/code/river/main.m4300911832#1641"    cd /Users/mark/code/river    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/mark/code/river/build/river.build/Debug-iphonesimulator/river.build/river-generated-files.hmap -I/Users/mark/code/river/build/river.build/Debug-iphonesimulator/river.build/river-own-target-headers.hmap -I/Users/mark/code/river/build/river.build/Debug-iphonesimulator/river.build/river-all-target-headers.hmap -iquote /Users/mark/code/river/build/river.build/Debug-iphonesimulator/river.build/river-project-headers.hmap -F/Users/mark/code/river/build/Debug-iphonesimulator -I/Users/mark/code/river/build/Debug-iphonesimulator/include -I/Users/mark/code/river/build/river.build/Debug-iphonesimulator/river.build/DerivedSources/i386 -I/Users/mark/code/river/build/river.build/Debug-iphonesimulator/river.build/DerivedSources -include /var/folders/xd/xdjQj+JyFEymHP-nZSPEt++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/river_Prefix-hgyjlkehirzmcwgzbecxlkhnvihg/river_Prefix.pch -c /Users/mark/code/river/main.m -o /Users/mark/code/river/build/river.build/Debug-iphonesimulator/river.build/Objects-normal/i386/main.o0#
+
+CCompileC build/river.build/Debug-iphonesimulator/river.build/Objects-normal/i386/riverAppDelegate.o /Users/mark/code/river/Classes/riverAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s296859732.150141
+e296859732.332248
+r1
+xCompileC
+xbuild/river.build/Debug-iphonesimulator/river.build/Objects-normal/i386/riverAppDelegate.o
+x/Users/mark/code/river/Classes/riverAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/mark/code/river/Classes/riverAppDelegate.m296859732#296859732#0(0"0(0#0#49"/Users/mark/code/river/Classes/riverAppDelegate.m4300911832#1673"    cd /Users/mark/code/river    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/mark/code/river/build/river.build/Debug-iphonesimulator/river.build/river-generated-files.hmap -I/Users/mark/code/river/build/river.build/Debug-iphonesimulator/river.build/river-own-target-headers.hmap -I/Users/mark/code/river/build/river.build/Debug-iphonesimulator/river.build/river-all-target-headers.hmap -iquote /Users/mark/code/river/build/river.build/Debug-iphonesimulator/river.build/river-project-headers.hmap -F/Users/mark/code/river/build/Debug-iphonesimulator -I/Users/mark/code/river/build/Debug-iphonesimulator/include -I/Users/mark/code/river/build/river.build/Debug-iphonesimulator/river.build/DerivedSources/i386 -I/Users/mark/code/river/build/river.build/Debug-iphonesimulator/river.build/DerivedSources -include /var/folders/xd/xdjQj+JyFEymHP-nZSPEt++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/river_Prefix-hgyjlkehirzmcwgzbecxlkhnvihg/river_Prefix.pch -c /Users/mark/code/river/Classes/riverAppDelegate.m -o /Users/mark/code/river/build/river.build/Debug-iphonesimulator/river.build/Objects-normal/i386/riverAppDelegate.o0#
+
+CCompileC build/river.build/Debug-iphonesimulator/river.build/Objects-normal/i386/riverViewController.o /Users/mark/code/river/Classes/riverViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s296859732.283097
+e296859732.366247
+r1
+xCompileC
+xbuild/river.build/Debug-iphonesimulator/river.build/Objects-normal/i386/riverViewController.o
+x/Users/mark/code/river/Classes/riverViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/mark/code/river/Classes/riverViewController.m296859732#296859732#0(0"0(0#0#52"/Users/mark/code/river/Classes/riverViewController.m4300911832#1679"    cd /Users/mark/code/river    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/mark/code/river/build/river.build/Debug-iphonesimulator/river.build/river-generated-files.hmap -I/Users/mark/code/river/build/river.build/Debug-iphonesimulator/river.build/river-own-target-headers.hmap -I/Users/mark/code/river/build/river.build/Debug-iphonesimulator/river.build/river-all-target-headers.hmap -iquote /Users/mark/code/river/build/river.build/Debug-iphonesimulator/river.build/river-project-headers.hmap -F/Users/mark/code/river/build/Debug-iphonesimulator -I/Users/mark/code/river/build/Debug-iphonesimulator/include -I/Users/mark/code/river/build/river.build/Debug-iphonesimulator/river.build/DerivedSources/i386 -I/Users/mark/code/river/build/river.build/Debug-iphonesimulator/river.build/DerivedSources -include /var/folders/xd/xdjQj+JyFEymHP-nZSPEt++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/river_Prefix-hgyjlkehirzmcwgzbecxlkhnvihg/river_Prefix.pch -c /Users/mark/code/river/Classes/riverViewController.m -o /Users/mark/code/river/build/river.build/Debug-iphonesimulator/river.build/Objects-normal/i386/riverViewController.o0#
+
+CCompileXIB /Users/mark/code/river/MainWindow.xib
+s296859730.276808
+e296859730.769076
+r1
+xCompileXIB
+x/Users/mark/code/river/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib296859730#296859730#0(0"0(0#0#37"/Users/mark/code/river/MainWindow.xib4300911832#430"    cd /Users/mark/code/river    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mark/code/river/build/Debug-iphonesimulator/river.app/MainWindow.nib /Users/mark/code/river/MainWindow.xib0#
+
+CCompileXIB /Users/mark/code/river/riverViewController.xib
+s296859730.288906
+e296859730.659631
+r1
+xCompileXIB
+x/Users/mark/code/river/riverViewController.xib
+lSLF07#2@34"CompileXIB riverViewController.xib296859730#296859730#0(0"0(0#0#46"/Users/mark/code/river/riverViewController.xib33214498230894640#448"    cd /Users/mark/code/river    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mark/code/river/build/Debug-iphonesimulator/river.app/riverViewController.nib /Users/mark/code/river/riverViewController.xib0#
+
+CCpResource build/Debug-iphonesimulator/river.app/Chipmunk Chipmunk
+s296859730.659727
+e296859730.693016
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/river.app/Chipmunk
+xChipmunk
+lSLF07#2@13"Copy Chipmunk296859730#296859730#0(0"0(0#0#31"/Users/mark/code/river/Chipmunk4300911832#402"    cd /Users/mark/code/river    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/mark/code/river/Chipmunk /Users/mark/code/river/build/Debug-iphonesimulator/river.app0#
+
+CCpResource build/Debug-iphonesimulator/river.app/FontLabel FontLabel
+s296860101.189491
+e296860101.197211
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/river.app/FontLabel
+xFontLabel
+lSLF07#2@14"Copy FontLabel296860101#296860101#0(0"0(0#0#32"/Users/mark/code/river/FontLabel4300911832#403"    cd /Users/mark/code/river    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/mark/code/river/FontLabel /Users/mark/code/river/build/Debug-iphonesimulator/river.app0#
+
+CCpResource build/Debug-iphonesimulator/river.app/cocos2d cocos2d
+s296859730.661017
+e296859730.735893
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/river.app/cocos2d
+xcocos2d
+lSLF07#2@12"Copy cocos2d296859730#296859730#0(0"0(0#0#30"/Users/mark/code/river/cocos2d4300911832#401"    cd /Users/mark/code/river    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/mark/code/river/cocos2d /Users/mark/code/river/build/Debug-iphonesimulator/river.app0#
+
+CGenerateDSYMFile /Users/mark/code/river/build/Debug-iphonesimulator/river.app.dSYM /Users/mark/code/river/build/Debug-iphonesimulator/river.app/river
+s296860101.229603
+e296860101.246521
+r1
+xGenerateDSYMFile
+x/Users/mark/code/river/build/Debug-iphonesimulator/river.app.dSYM
+x/Users/mark/code/river/build/Debug-iphonesimulator/river.app/river
+lSLF07#2@103"GenerateDSYMFile build/Debug-iphonesimulator/river.app.dSYM build/Debug-iphonesimulator/river.app/river296860101#296860101#0(0"0(0#0#66"/Users/mark/code/river/build/Debug-iphonesimulator/river.app/river4300911832#329"    cd /Users/mark/code/river    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/mark/code/river/build/Debug-iphonesimulator/river.app/river -o /Users/mark/code/river/build/Debug-iphonesimulator/river.app.dSYM0#
+
+CLd /Users/mark/code/river/build/Debug-iphonesimulator/river.app/river normal i386
+s296860101.197688
+e296860101.229494
+r1
+xLd
+x/Users/mark/code/river/build/Debug-iphonesimulator/river.app/river
+xnormal
+xi386
+lSLF07#2@71"Link /Users/mark/code/river/build/Debug-iphonesimulator/river.app/river296860101#296860101#0(0"0(0#0#0"4300911832#818"    cd /Users/mark/code/river    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/mark/code/river/build/Debug-iphonesimulator -F/Users/mark/code/river/build/Debug-iphonesimulator -filelist /Users/mark/code/river/build/river.build/Debug-iphonesimulator/river.build/Objects-normal/i386/river.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -lz -framework OpenGLES -framework QuartzCore -o /Users/mark/code/river/build/Debug-iphonesimulator/river.app/river0#
+
+CProcessInfoPlistFile /Users/mark/code/river/build/Debug-iphonesimulator/river.app/Info.plist river-Info.plist
+s296859730.210167
+e296859730.276708
+r1
+xProcessInfoPlistFile
+x/Users/mark/code/river/build/Debug-iphonesimulator/river.app/Info.plist
+xriver-Info.plist
+lSLF07#2@24"Process river-Info.plist296859730#296859730#0(0"0(0#0#39"/Users/mark/code/river/river-Info.plist13229813538947188#425"    cd /Users/mark/code/river    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility river-Info.plist -genpkginfo /Users/mark/code/river/build/Debug-iphonesimulator/river.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/mark/code/river/build/Debug-iphonesimulator/river.app/Info.plist0#
+
+CProcessPCH /var/folders/xd/xdjQj+JyFEymHP-nZSPEt++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/river_Prefix-hgyjlkehirzmcwgzbecxlkhnvihg/river_Prefix.pch.gch river_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s296859730.769204
+e296859732.148613
+r1
+xProcessPCH
+x/var/folders/xd/xdjQj+JyFEymHP-nZSPEt++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/river_Prefix-hgyjlkehirzmcwgzbecxlkhnvihg/river_Prefix.pch.gch
+xriver_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile river_Prefix.pch296859730#296859732#0(0"0(0#0#39"/Users/mark/code/river/river_Prefix.pch4300911832#1551"    cd /Users/mark/code/river    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/mark/code/river/build/river.build/Debug-iphonesimulator/river.build/river-generated-files.hmap -I/Users/mark/code/river/build/river.build/Debug-iphonesimulator/river.build/river-own-target-headers.hmap -I/Users/mark/code/river/build/river.build/Debug-iphonesimulator/river.build/river-all-target-headers.hmap -iquote /Users/mark/code/river/build/river.build/Debug-iphonesimulator/river.build/river-project-headers.hmap -F/Users/mark/code/river/build/Debug-iphonesimulator -I/Users/mark/code/river/build/Debug-iphonesimulator/include -I/Users/mark/code/river/build/river.build/Debug-iphonesimulator/river.build/DerivedSources/i386 -I/Users/mark/code/river/build/river.build/Debug-iphonesimulator/river.build/DerivedSources -c /Users/mark/code/river/river_Prefix.pch -o /var/folders/xd/xdjQj+JyFEymHP-nZSPEt++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/river_Prefix-hgyjlkehirzmcwgzbecxlkhnvihg/river_Prefix.pch.gch0#
+
+CTouch /Users/mark/code/river/build/Debug-iphonesimulator/river.app
+s296860101.246609
+e296860101.250163
+r1
+xTouch
+x/Users/mark/code/river/build/Debug-iphonesimulator/river.app
+lSLF07#2@66"Touch /Users/mark/code/river/build/Debug-iphonesimulator/river.app296860101#296860101#0(0"0(0#0#0"4300911832#244"    cd /Users/mark/code/river    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/mark/code/river/build/Debug-iphonesimulator/river.app0#
+

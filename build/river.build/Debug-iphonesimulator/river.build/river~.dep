@@ -1,0 +1,13 @@
+56993f694f150a2ce7ee9531faffdc1a afdf9cb51a00b4a506b5ea86090d0bef ffffffffffffffffffffffffffffffff 306 /Users/mark/code/river/build/Debug-iphonesimulator/river.app
+00000000000000000000000000000000 3592aee6c714bd3cbb9026ef143e1520 ffffffffffffffffffffffffffffffff 4216 /Users/mark/code/river/build/Debug-iphonesimulator/river.app/cocos2d
+00000000000000000000000000000000 e891aeca4476d9eeca83e0ccca3a0aa3 ffffffffffffffffffffffffffffffff 136 /Users/mark/code/river/build/Debug-iphonesimulator/river.app/Chipmunk
+000000004c017f5b0000000000003ed9 bc11e79a7aba781d04925cda71fdfd6c ffffffffffffffffffffffffffffffff 769 /Users/mark/code/river/build/Debug-iphonesimulator/river.app/riverViewController.nib
+000000004c017f5b0000000000004cf5 a3df00c768a3cfa7d519836a84c69f4a ffffffffffffffffffffffffffffffff 1113 /Users/mark/code/river/build/Debug-iphonesimulator/river.app/MainWindow.nib
+00000000000000000000000000000000 ae620420a9e5c5fb85a3945ab0df0df6 ffffffffffffffffffffffffffffffff 8 /Users/mark/code/river/build/Debug-iphonesimulator/river.app/PkgInfo
+00000000000000000000000000000000 ae620420a9e5c5fb85a3945ab0df0df6 ffffffffffffffffffffffffffffffff 790 /Users/mark/code/river/build/Debug-iphonesimulator/river.app/Info.plist
+00000000000000000000000000000000 99e71face234acfcf5b7fd85f1b6a0e7 ffffffffffffffffffffffffffffffff 102 /Users/mark/code/river/build/Debug-iphonesimulator/river.app.dSYM
+9911847d2c35b00341fa6e6f64c81c04 0d455c65f25b6947068ce2cdb508cf97 ffffffffffffffffffffffffffffffff 19444 /Users/mark/code/river/build/Debug-iphonesimulator/river.app/river
+3f062f9943ca5d9a54c51d21e6a0c918 9b996cc0e4d1754d700ea46154ccb5ab ffffffffffffffffffffffffffffffff 34400 /Users/mark/code/river/build/river.build/Debug-iphonesimulator/river.build/Objects-normal/i386/riverViewController.o
+3f062f99446de82d54c51d21e6a0c696 356343745a029a6074bf255c3f444815 ffffffffffffffffffffffffffffffff 42348 /Users/mark/code/river/build/river.build/Debug-iphonesimulator/river.build/Objects-normal/i386/riverAppDelegate.o
+3f062f990fcb22c154c51d21e6a0cddd 08ed84509aad6c35118ef273ebfaaaf9 ffffffffffffffffffffffffffffffff 5912 /Users/mark/code/river/build/river.build/Debug-iphonesimulator/river.build/Objects-normal/i386/main.o
+000000004c38a8610000000000001a69 3f062f9944543f1754c51d21e6a0df5e ffffffffffffffffffffffffffffffff 13805456 /var/folders/xd/xdjQj+JyFEymHP-nZSPEt++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/river_Prefix-hgyjlkehirzmcwgzbecxlkhnvihg/river_Prefix.pch.gch
