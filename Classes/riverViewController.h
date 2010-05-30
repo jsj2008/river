@@ -7,8 +7,10 @@
 //
 
 #import <UIKit/UIKit.h>
+@class Terrain;
 
 @interface riverViewController : UIViewController {
+	Terrain * terrtain;
 
 }
 

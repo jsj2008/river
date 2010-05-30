@@ -8,6 +8,9 @@
 
 #import "riverViewController.h"
 #import "cocos2d.h"
+#import "Terrain.h"
+
+@class Terrain;
 
 @implementation riverViewController
 
@@ -45,8 +48,8 @@
 	
 	// Create Scene
 	CCScene * scene = [CCScene node];
-	court = [[DBGameCourt alloc] init];
-	[scene addChild:court];
+	terrtain = [[Terrain alloc] init];
+	[scene addChild:terrtain];
 	
 	// Run scene
 	if([[CCDirector sharedDirector] runningScene])
@@ -54,8 +57,8 @@
 	else [[CCDirector sharedDirector] runWithScene:scene];
 	
 	// Schedule update
-	CCTimer * timer = [CCTimer timerWithTarget:court selector:@selector(update:)];
-	[[CCScheduler sharedScheduler] scheduleTimer:timer];
+//	CCTimer * timer = [CCTimer timerWithTarget:court selector:@selector(update:)];
+//	[[CCScheduler sharedScheduler] scheduleTimer:timer];
 	
 	
 }

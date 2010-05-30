@@ -1,10 +1,33 @@
 // !$*UTF8*$!
 {
+	1D3623250D0F684500981E51 /* riverAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {618, 396}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{136, 422}";
+		};
+	};
 	1D6058900D05DD3D006BFB54 /* river */ = {
 		activeExec = 0;
 		executables = (
 			4D923CA811B1B6DB00EC423C /* river */,
 		);
+	};
+	28D7ACF60DDB3853001CB0EB /* riverViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {529, 274}}";
+			sepNavSelRange = "{226, 0}";
+			sepNavVisRange = "{0, 267}";
+			sepNavWindowFrame = "{{134, 23}, {863, 745}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* riverViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {529, 990}}";
+			sepNavSelRange = "{215, 0}";
+			sepNavVisRange = "{29, 573}";
+			sepNavWindowFrame = "{{209, 78}, {863, 745}}";
+		};
 	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
 		activeBuildConfigurationName = Debug;
@@ -23,9 +46,9 @@
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					341,
+					351,
 					20,
-					48.16259765625,
+					48,
 					43,
 					43,
 					20,
@@ -40,8 +63,39 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					311,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
 			PBXPerProjectTemplateStateSaveDate = 296859355;
 			PBXWorkspaceStateSaveDate = 296859355;
+		};
+		perUserProjectItems = {
+			4D923F6711B1D0E700EC423C /* PBXTextBookmark */ = 4D923F6711B1D0E700EC423C /* PBXTextBookmark */;
+			4D923F6811B1D0E700EC423C /* PBXTextBookmark */ = 4D923F6811B1D0E700EC423C /* PBXTextBookmark */;
+			4D923F6911B1D0E700EC423C /* PBXTextBookmark */ = 4D923F6911B1D0E700EC423C /* PBXTextBookmark */;
+			4D923FA511B1D3D100EC423C /* PBXTextBookmark */ = 4D923FA511B1D3D100EC423C /* PBXTextBookmark */;
+			4D923FA611B1D3D100EC423C /* PBXTextBookmark */ = 4D923FA611B1D3D100EC423C /* PBXTextBookmark */;
+			4D923FA711B1D3D100EC423C /* PBXTextBookmark */ = 4D923FA711B1D3D100EC423C /* PBXTextBookmark */;
+			4D923FB411B2100F00EC423C /* PBXTextBookmark */ = 4D923FB411B2100F00EC423C /* PBXTextBookmark */;
 		};
 		sourceControlManager = 4D923CAE11B1B6FA00EC423C /* Source Control */;
 		userBuildSettings = {
@@ -88,5 +142,106 @@
 	4D923CAF11B1B6FA00EC423C /* Code sense */ = {
 		isa = PBXCodeSenseManager;
 		indexTemplatePath = "";
+	};
+	4D923EC211B1C3DA00EC423C /* Terrain.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {529, 274}}";
+			sepNavSelRange = "{167, 0}";
+			sepNavVisRange = "{0, 229}";
+			sepNavWindowFrame = "{{115, 62}, {863, 745}}";
+		};
+	};
+	4D923EC311B1C3DA00EC423C /* Terrain.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {529, 473}}";
+			sepNavSelRange = "{634, 0}";
+			sepNavVisRange = "{242, 488}";
+			sepNavWindowFrame = "{{124, 67}, {863, 745}}";
+		};
+	};
+	4D923F2511B1CB0400EC423C /* Boat.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {529, 341}}";
+			sepNavSelRange = "{551, 0}";
+			sepNavVisRange = "{65, 635}";
+			sepNavWindowFrame = "{{72, -90}, {863, 745}}";
+		};
+	};
+	4D923F2611B1CB0400EC423C /* Boat.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {439, 473}}";
+			sepNavSelRange = "{489, 0}";
+			sepNavVisRange = "{248, 334}";
+		};
+	};
+	4D923F6711B1D0E700EC423C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* riverViewController.m */;
+		name = "riverViewController.m: 12";
+		rLen = 0;
+		rLoc = 215;
+		rType = 0;
+		vrLen = 573;
+		vrLoc = 29;
+	};
+	4D923F6811B1D0E700EC423C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* riverViewController.h */;
+		name = "riverViewController.h: 12";
+		rLen = 0;
+		rLoc = 226;
+		rType = 0;
+		vrLen = 267;
+		vrLoc = 0;
+	};
+	4D923F6911B1D0E700EC423C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D923EC211B1C3DA00EC423C /* Terrain.h */;
+		name = "Terrain.h: 10";
+		rLen = 0;
+		rLoc = 167;
+		rType = 0;
+		vrLen = 229;
+		vrLoc = 0;
+	};
+	4D923FA511B1D3D100EC423C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D923F2511B1CB0400EC423C /* Boat.h */;
+		name = "Boat.h: 23";
+		rLen = 0;
+		rLoc = 551;
+		rType = 0;
+		vrLen = 635;
+		vrLoc = 65;
+	};
+	4D923FA611B1D3D100EC423C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D923EC311B1C3DA00EC423C /* Terrain.m */;
+		name = "Terrain.m: 36";
+		rLen = 0;
+		rLoc = 634;
+		rType = 0;
+		vrLen = 488;
+		vrLoc = 242;
+	};
+	4D923FA711B1D3D100EC423C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D923F2611B1CB0400EC423C /* Boat.m */;
+		name = "Boat.m: 11";
+		rLen = 0;
+		rLoc = 146;
+		rType = 0;
+		vrLen = 389;
+		vrLoc = 145;
+	};
+	4D923FB411B2100F00EC423C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D923F2611B1CB0400EC423C /* Boat.m */;
+		name = "Boat.m: 17";
+		rLen = 0;
+		rLoc = 236;
+		rType = 0;
+		vrLen = 364;
+		vrLoc = 0;
 	};
 }
