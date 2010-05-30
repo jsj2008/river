@@ -11,6 +11,7 @@
 
 @interface Terrain  : CCColorLayer {
 	Boat * boat;
+	CGFloat fl; // this is temporary and should be removed.  Using it to wobble the boat for kicks.
 
 }
 

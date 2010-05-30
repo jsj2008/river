@@ -95,6 +95,7 @@
 		4D923F2311B1CA3800EC423C /* character.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D923F2211B1CA3800EC423C /* character.png */; };
 		4D923F2711B1CB0400EC423C /* Boat.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D923F2611B1CB0400EC423C /* Boat.m */; };
 		4D923F3411B1CE6500EC423C /* a100.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4D923F3311B1CE6500EC423C /* a100.jpg */; };
+		4DC25DDF11B2EAB100E91D84 /* raftVector.png in Resources */ = {isa = PBXBuildFile; fileRef = 4DC25DDE11B2EAB100E91D84 /* raftVector.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -272,6 +273,7 @@
 		4D923F2511B1CB0400EC423C /* Boat.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Boat.h; sourceTree = "<group>"; };
 		4D923F2611B1CB0400EC423C /* Boat.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Boat.m; sourceTree = "<group>"; };
 		4D923F3311B1CE6500EC423C /* a100.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = a100.jpg; sourceTree = "<group>"; };
+		4DC25DDE11B2EAB100E91D84 /* raftVector.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = raftVector.png; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* river-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "river-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -344,6 +346,7 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				4DC25DDE11B2EAB100E91D84 /* raftVector.png */,
 				4D923F3311B1CE6500EC423C /* a100.jpg */,
 				4D923F2211B1CA3800EC423C /* character.png */,
 				4D923F1711B1C9A200EC423C /* gymfloorBig.jpg */,
@@ -586,6 +589,7 @@
 				4D923F1811B1C9A200EC423C /* gymfloorBig.jpg in Resources */,
 				4D923F2311B1CA3800EC423C /* character.png in Resources */,
 				4D923F3411B1CE6500EC423C /* a100.jpg in Resources */,
+				4DC25DDF11B2EAB100E91D84 /* raftVector.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

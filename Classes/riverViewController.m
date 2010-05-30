@@ -57,9 +57,8 @@
 	else [[CCDirector sharedDirector] runWithScene:scene];
 	
 	// Schedule update
-//	CCTimer * timer = [CCTimer timerWithTarget:court selector:@selector(update:)];
-//	[[CCScheduler sharedScheduler] scheduleTimer:timer];
-	
+	CCTimer * timer = [CCTimer timerWithTarget:terrtain selector:@selector(update:)];
+	[[CCScheduler sharedScheduler] scheduleTimer:timer];	
 	
 }
 

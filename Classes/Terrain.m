@@ -7,6 +7,7 @@
 //
 
 #import "Terrain.h"
+#import <math.h>
 @class Boat;
 
 
@@ -38,5 +39,15 @@
 //	cpSpaceAddShape(space, player.shape);
 }
 
+
+- (void) update:(ccTime)dt {
+
+//	CGFloat rot = (CGFloat) (sin((double)ccTime) * 45.0f);
+	fl += 0.05f;
+	CGFloat rot = sinf(fl) * 45.0f;
+	[boat setRotation:rot];
+	//cpSpaceStep(space, dt);
+	
+}
 
 @end

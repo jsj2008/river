@@ -16,8 +16,8 @@
 	if (![super init])
 		return nil;
 	// Sprite
-	sprite = [[CCSprite alloc] initWithFile:@"a100.jpg"];
-	
+	sprite = [[CCSprite alloc] initWithFile:@"raftVector.png"];
+	[sprite setPosition:CGPointMake(512, 900)];
 	return self;
 }
 
@@ -25,6 +25,7 @@
 - (void) setPosition:(CGPoint)location {
 //	body->p.x = location.x;
 //	body->p.y = location.y;
+	[sprite setPosition:location];
 }
 
 - (CGPoint) position {
@@ -32,6 +33,7 @@
 }
 
 - (void) setRotation:(CGFloat)rotation {
+	sprite.rotation = rotation;
 //	body->rot = cpvforangle(rotation/180*M_PI);
 }
 
